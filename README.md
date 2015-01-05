@@ -5,4 +5,4 @@ This is a sample git repository made for a training on [OpenClassrooms](http://w
 
 *Aloike*
 
-![Tux](Tux.svg)
+![Tux](https://raw.githubusercontent.com/Aloike/oc_activity/master/Tux.png)
